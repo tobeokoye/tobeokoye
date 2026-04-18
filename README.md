@@ -1,4 +1,3 @@
-[README-2.md](https://github.com/user-attachments/files/26856765/README-2.md)
 # Hi, I'm Tobe 👋
 
 I'm a Cybersecurity student transitioning from a background in visual art into the technical world of networking and security. I'm drawn to the forensics and investigation side of cybersecurity — finding out what happened, how, and why.
